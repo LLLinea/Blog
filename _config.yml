@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Menci's Blog
-subtitle: "眉眼如初，岁月如故"
+title: 顧然
+subtitle: "最是人間留不住,朱顏辭鏡花辭樹"
 description: ""
-author: Menci
+author: LLLinea
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://oi.men.ci
+url: https://lllinea.github.io
 root: /
 permalink: :title/
 permalink_defaults:
@@ -64,7 +64,7 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: vno
-disqus_shortname: menci
+disqus_shortname: Linea
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
