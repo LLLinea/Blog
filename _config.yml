@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 顧然
-subtitle: "最是人間留不住,朱顏辭鏡花辭樹"
+title: _Grey
+subtitle: "你是我的军旗"
 description: ""
-author: LLLinea
+author: _Grey
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://lllinea.github.io
+url: https://Grey-gran.github.io
 root: /
 permalink: :title/
 permalink_defaults:
@@ -64,13 +64,13 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: vno
-disqus_shortname: Linea
+disqus_shortname: _Grey
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: ssh://Menci@ip1.menci.moe:233/~/blog.git
+  repo: 
   branch: master
 
 moemark: 
